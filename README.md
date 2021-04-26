@@ -14,7 +14,7 @@
 
 [An introduction to PBot](https://youtu.be/DnuMtNr2HTQ)
 
-[Overview of the Paleobiology Database]
+[Overview of the Paleobiology Database](https://youtu.be/HZjMLou7i3Y)
 
 [PBot Design Walkthrough](https://youtu.be/zAmICcKrAbY)
 
