@@ -1,6 +1,8 @@
 ![website text copy](https://user-images.githubusercontent.com/74028701/153301247-dc1f6e2d-e496-4a7c-9d35-7741f36187cd.jpg =75)
  
 
+Our website has moved! Please find us at https://pbotportal.weebly.com
+
 
 ![Website Header](https://user-images.githubusercontent.com/74028701/153301139-5b3e66f1-a4b5-4fbc-9ea3-b61fce7b6e93.jpg =75)
 
@@ -11,11 +13,10 @@
 
 PBot, the integrative paleobotany portal, is an open source, community driven web client and database helping to connect the paleobotanical community across space, time, and working groups.
 
+
 Learn more here: 
 
-
-
-
+website: https://pbotportal.weebly.com
 
 email: PBotPortal@gmail.com 
 
